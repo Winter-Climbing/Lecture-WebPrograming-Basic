@@ -1,5 +1,5 @@
-const test = document.querySelector('.test');
+// const test = document.querySelector('.test');
 
-test.addEventListener('mouseover', () => {
-  test.setAttribute('display: none');
-});
+// test.addEventListener('mouseover', () => {
+//   test.setAttribute('display: none');
+// });
